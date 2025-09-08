@@ -1,5 +1,8 @@
+<img width="1785" height="483" alt="github-header-banner" src="https://github.com/user-attachments/assets/14d17d0f-47ae-4149-bc6e-d9af4b5929b1" />
+
+
 # 💫 About Me:
-# 👋 Hi, I'm codekirari!<br><br>**Technical Programmer & Biologist | Full Stack Developer**
+# <br><br>**Technical Programmer & Biologist | Full Stack Developer**
 
 
 ## 🌐 Socials:
