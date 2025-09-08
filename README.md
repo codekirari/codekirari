@@ -1,9 +1,6 @@
 <img width="1785" height="483" alt="github-header-banner" src="https://github.com/user-attachments/assets/14d17d0f-47ae-4149-bc6e-d9af4b5929b1" />
 
-
-# 💫 About Me:
 # <br><br>**Technical Programmer & Biologist | Full Stack Developer**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamaryCardozo) 
