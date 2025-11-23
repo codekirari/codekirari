@@ -1,3 +1,4 @@
+![Header](./github-header-banner (1).png)
 # 💫 About Me:
 Soy una Técnica en Programación y Licenciada en Biología 👩‍🔬, uniendo el rigor científico con la innovación tecnológica 💡. Mi enfoque es el Desarrollo Web Full Stack (HTML, CSS, JavaScript, Java, Python) y el Análisis de Datos 📊. Me especializo en crear soluciones digitales útiles y confiables que mejoran procesos —he colaborado exitosamente en proyectos clínicos— y facilitan la toma de decisiones. Manejo herramientas como Bootstrap, MySQL y consumo de APIs REST ⚙️. Mi objetivo es desarrollar software con propósito, combinando mi base técnica y científica para resultados de alto valor.
 
