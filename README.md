@@ -1,7 +1,5 @@
 # 💫 About Me:
-Soy una Técnica en Programación y Licenciada en Biología 👩‍🔬,uniendo el rigor científico con la innovación tecnológica 💡.Mi enfoque es el Desarrollo Web Full Stack (HTML, CSS, JavaScript, Java, Python) y el Análisis de Datos 📊. Me especializo en crear soluciones digitales útiles y confiables que mejoran procesos —he colaborado exitosamente en proyectos clínicos— y facilitan la toma de decisiones. Manejo herramientas como Bootstrap, MySQL y consumo de APIs REST ⚙️. Mi objetivo es desarrollar software con propósito, combinando mi base técnica y científica para resultados de alto valor.
-
-
+Técnica en Programación y Licenciada en Biología 🔬 | Full Stack Developer (HTML/CSS/Python/Java) | Construir software con propósito. | Naturaleza, Dibujo, Videojuegos. 🎮 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamaryCardozo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarycardozo@gmail.com) 
 
