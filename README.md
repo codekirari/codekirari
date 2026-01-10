@@ -16,4 +16,6 @@ Técnica en Programación y Licenciada en Biología 🔬 | Full Stack Developer 
 ---
 [![](https://visitcount.itsvg.in/api?id=codekirari&icon=1&color=6)](https://visitcount.itsvg.in)
 
+![](https://hit.yhype.me/github/profile?account_id=159805400)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
